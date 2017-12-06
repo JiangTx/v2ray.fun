@@ -32,7 +32,7 @@ fi
 
 #克隆V2ray.fun项目
 cd /usr/local/
-git clone https://github.com/FunctionClub/v2ray.fun
+git clone https://github.com/JiangTx/v2ray.fun
 
 #安装V2ray主程序
 bash <(curl -L -s https://install.direct/go.sh)
