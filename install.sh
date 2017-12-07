@@ -52,5 +52,5 @@ service v2ray restart
 
 clear
 
-echo "V2ray.fun 安装成功！By: 雨落无声"修改By：NoneAug
+echo "V2ray.fun 安装成功！By: 雨落无声"
 echo "输入 v2ray 回车即可使用"
